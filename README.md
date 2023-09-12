@@ -23,7 +23,9 @@ a. You can obtain the same covariance matrix for all the classes by taking the a
 covariance matrices of all the classes.
 3. Covariance matric is diagonal and is different for each class.
 4. Full covariance matrix for each class is different.
-Presentation of results: Report should include the results of studies presented in the following
+
+## Presentation of results: 
+Report should include the results of studies presented in the following
 forms for each classifier and for each dataset.
 1) Confusion matrix, classification accuracy, precision for every class, mean precision, recall for
 every class, mean recall, F-measure for every class and mean F-measure on test data.
